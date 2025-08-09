@@ -1,6 +1,8 @@
 {
   "name": "dm-delay",
   "private": true,
+  "homepage": "https://piojohnson6-ai.github.io/Delay",
+
   "version": "0.0.0",
   "type": "module",
   "scripts": {
