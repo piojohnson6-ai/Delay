@@ -1,4 +1,4 @@
-import MessageFrom from "@/components/messageFrom"
+import MessageFrom from "@/components/MessageFrom"
 
 const Home = () => {
   return (
